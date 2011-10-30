@@ -1,32 +1,18 @@
-# Matt's Super duper reading list of Doom
+# Rob's Super-duper Reading List of Doom
 
 ## Books
 
-  * [Metaprogramming Ruby](http://pragprog.com/book/ppmetr/metaprogramming-ruby), Paulo Perrotta
-  * [Design Patterns in Ruby](http://designpatternsinruby.com/), Russ Olsen
-  * [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do), Yukihiro Matsumoto
-  * [Growing OO Software, guided by tests](http://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=wl_it_dp_o_npd?ie=UTF8&coliid=I1R5VI03D7VG32&colid=2UJF3HBHGUHN5), Steve Freeman & Nat Pryce
-  * [Seven Languages in Seven Weeks](http://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=wl_it_dp_o_npd?ie=UTF8&coliid=ITJXQVVJJ26KS&colid=2UJF3HBHGUHN5), Bruce Tate
-  * [Exceptional Ruby](http://exceptionalruby.com/), Avdi Grimm
+  * [Ruby on Rails 3 Tutorial: Learn Rails by Example](http://www.amazon.co.uk/dp/0321743121), Michael Hartl
+  * [Agile Web Development with Rails](http://www.amazon.co.uk/dp/1934356549), Sam Ruby, Dave Thomas, David Heinemeier Hansson
+  * [Beginning Ruby: From Novice to Professional](http://www.amazon.co.uk/dp/1430223634), Peter Cooper
+  * [The Well-Grounded Rubyist](http://www.amazon.co.uk/dp/1933988657), David A. Black
+  * [The Ruby Way: Solutions and Techniques in Ruby Programming](http://www.amazon.co.uk/dp/0672328844), Hal Fulton
+  * [The Rails 3 Way](http://www.amazon.co.uk/dp/0321601661), Obie Fernandez
 
 ## Videos
-  * [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
-  * [RailsCasts](http://railscasts.com/)
-  * [Vimcasts](http://vimcasts.org/)
+  * [Code School](http://www.codeschool.com/)
+  * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
 
 ## Podcasts
-  * [Ruby Rogues](http://rubyrogues.com/)
-
-## Awesome Conference Vids
-  * [Exception Ruby - Avdi Grimm](http://confreaks.net/videos/658-rubyconf2011-exceptional-ruby)
-  * [Writing Solid Ruby Code - Jim Weirich](http://confreaks.net/videos/656-rubyconf2011-writing-solid-ruby-code)
-  * [The UNIX Chainsaw - Gary Bernhardt](http://confreaks.net/videos/615-cascadiaruby2011-the-unix-chainsaw)
-  * [Confident Code - Avdi Grimm](http://confreaks.net/videos/614-cascadiaruby2011-confident-code)
-  * [Why Ruby - DHH](http://confreaks.net/videos/431-rubyconf2010-keynote-why-ruby)
-  * [Zomg Why is this code so slow - Aaron Patterson](http://confreaks.net/videos/427-rubyconf2010-zomg-why-is-this-code-so-slow)
-  * [SOLID Ruby - Jim Weirich](http://confreaks.net/videos/185-rubyconf2009-solid-ruby)
-
-## Other people have suggested I add these (I haven't read them)
-
-  * [The Art of UNIX Programming](http://catb.org/~esr/writings/taoup/), Eric Raymond
-  * [Eloquent Ruby](http://eloquentruby.com/), Russ Olsen
+  * [Ruby5](http://ruby5.envylabs.com/)
+  * [RailsCasts](http://railscasts.com/)
