@@ -8,6 +8,7 @@
   * [The Well-Grounded Rubyist](http://www.amazon.co.uk/dp/1933988657), David A. Black
   * [The Ruby Way: Solutions and Techniques in Ruby Programming](http://www.amazon.co.uk/dp/0672328844), Hal Fulton
   * [The Rails 3 Way](http://www.amazon.co.uk/dp/0321601661), Obie Fernandez
+  * [Programming Ruby 1.9: The Pragmatic Programmers' Guide](http://www.amazon.co.uk/dp/1934356085), Dave Thomas, Chad Fowler, Andy Hunt
 
 ## Videos
   * [Code School](http://www.codeschool.com/)
