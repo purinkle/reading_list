@@ -15,6 +15,16 @@ Programming](http://www.amazon.co.uk/dp/0672328844), Hal Fulton
 * [Programming Ruby 1.9: The Pragmatic Programmers'
 Guide](http://www.amazon.co.uk/dp/1934356085), Dave Thomas, Chad Fowler, Andy
 Hunt
+* [Refactoring: Ruby Edition](http://www.amazon.co.uk/dp/0321603508), Jay
+Fields, Shane Harvie, Martin Fowler, Kent Beck
+* [Distributed Programming with Ruby](http://www.amazon.co.uk/dp/0321638360),
+Mark Bates
+* [Service-Oriented Design with Ruby and
+Rails](http://www.amazon.co.uk/dp/0321659368), Paul Dix
+* [Design Patterns in Ruby](http://www.amazon.co.uk/dp/0321490452), Russ Olsen
+* [Rails AntiPatterns: Best Practice Ruby on Rails
+Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
+* [Eloquent Ruby](http://www.amazon.co.uk/dp/0321584104), Russ Olsen
 
 ## Videos
 * [Code School](http://www.codeschool.com/)
