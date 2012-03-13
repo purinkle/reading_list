@@ -29,6 +29,11 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 ## Videos
 * [Code School](http://www.codeschool.com/)
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
+* Destroy All Software: Untested Code
+    * [Introduction](https://www.destroyallsoftware.com/screencasts/catalog/untested-code-part-1-introduction)
+    * [Adding Tests](https://www.destroyallsoftware.com/screencasts/catalog/untested-code-part-2-adding-tests)
+    * [Refactoring 1](https://www.destroyallsoftware.com/screencasts/catalog/untested-code-part-3-refactoring-1)
+    * [Refactoring 2](https://www.destroyallsoftware.com/screencasts/catalog/untested-code-part-4-refactoring-2)
 
 ## Podcasts
 * [Ruby5](http://ruby5.envylabs.com/)
