@@ -30,7 +30,7 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
 * [RubyConf 2011](http://www.confreaks.com/events/rubyconf2011)
 
-## Podcasts
+## Screencasts
 * [Code School](http://www.codeschool.com/)
 * [Ruby5](http://ruby5.envylabs.com/)
 * [RailsCasts](http://railscasts.com/)
