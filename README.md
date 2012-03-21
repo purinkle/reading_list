@@ -27,7 +27,6 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 * [Eloquent Ruby](http://www.amazon.co.uk/dp/0321584104), Russ Olsen
 
 ## Videos
-* [Code School](http://www.codeschool.com/)
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
 * Destroy All Software: Untested Code
     * [Introduction](https://www.destroyallsoftware.com/screencasts/catalog/untested-code-part-1-introduction)
@@ -37,5 +36,6 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 * [RubyConf 2011](http://www.confreaks.com/events/rubyconf2011)
 
 ## Podcasts
+* [Code School](http://www.codeschool.com/)
 * [Ruby5](http://ruby5.envylabs.com/)
 * [RailsCasts](http://railscasts.com/)
