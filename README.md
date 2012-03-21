@@ -25,6 +25,10 @@ Rails](http://www.amazon.co.uk/dp/0321659368), Paul Dix
 * [Rails AntiPatterns: Best Practice Ruby on Rails
 Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 * [Eloquent Ruby](http://www.amazon.co.uk/dp/0321584104), Russ Olsen
+* [Backbone.js on
+  Rails](https://workshops.thoughtbot.com/backbone-js-on-rails), thoughtbot
+* [Recipes with Backbone](http://recipeswithbackbone.com/), Nick Gauthier,
+  Chris Strom
 
 ## Videos
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
