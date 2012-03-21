@@ -39,3 +39,5 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
 * [Code School](http://www.codeschool.com/)
 * [Ruby5](http://ruby5.envylabs.com/)
 * [RailsCasts](http://railscasts.com/)
+* [Peepcode](http://peepcode.com/)
+* [Treehouse](http://teamtreehouse.com/)
