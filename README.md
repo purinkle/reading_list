@@ -29,6 +29,7 @@ Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
   Rails](https://workshops.thoughtbot.com/backbone-js-on-rails), thoughtbot
 * [Recipes with Backbone](http://recipeswithbackbone.com/), Nick Gauthier,
   Chris Strom
+* [Objects on Rails](http://objectsonrails.com/), Avdi Grimm
 
 ## Videos
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
