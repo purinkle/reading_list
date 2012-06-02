@@ -15,6 +15,8 @@ Programming](http://www.amazon.co.uk/dp/0672328844), Hal Fulton
 * [Programming Ruby 1.9: The Pragmatic Programmers'
 Guide](http://www.amazon.co.uk/dp/1934356085), Dave Thomas, Chad Fowler, Andy
 Hunt
+* [CoffeeScript: Accelerated JavaScript
+Development](http://www.amazon.co.uk/dp/1934356786), Trevor Burnham
 * [Refactoring: Ruby Edition](http://www.amazon.co.uk/dp/0321603508), Jay
 Fields, Shane Harvie, Martin Fowler, Kent Beck
 * [Distributed Programming with Ruby](http://www.amazon.co.uk/dp/0321638360),
