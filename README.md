@@ -28,6 +28,7 @@ Development](http://www.amazon.co.uk/dp/1934356786), Trevor Burnham
 ## Videos
 * [Scaling Rails](http://railslab.newrelic.com/scaling-rails)
 * [RubyConf 2011](http://www.confreaks.com/events/rubyconf2011)
+* [RailsConf 2012](http://www.confreaks.com/events/railsconf2012)
 
 ## Screencasts
 * [Code School](http://www.codeschool.com/)
