@@ -17,16 +17,7 @@ Guide](http://www.amazon.co.uk/dp/1934356085), Dave Thomas, Chad Fowler, Andy
 Hunt
 * [CoffeeScript: Accelerated JavaScript
 Development](http://www.amazon.co.uk/dp/1934356786), Trevor Burnham
-* [Refactoring: Ruby Edition](http://www.amazon.co.uk/dp/0321603508), Jay
-Fields, Shane Harvie, Martin Fowler, Kent Beck
-* [Distributed Programming with Ruby](http://www.amazon.co.uk/dp/0321638360),
-Mark Bates
-* [Service-Oriented Design with Ruby and
-Rails](http://www.amazon.co.uk/dp/0321659368), Paul Dix
-* [Design Patterns in Ruby](http://www.amazon.co.uk/dp/0321490452), Russ Olsen
-* [Rails AntiPatterns: Best Practice Ruby on Rails
-Refactoring](http://www.amazon.co.uk/dp/0321604814), Chad Pytel, Tammer Saleh
-* [Eloquent Ruby](http://www.amazon.co.uk/dp/0321584104), Russ Olsen
+* [Addison-Wesley Professional Ruby Series](http://www.informit.com/imprint/series_detail.aspx?ser=2124042)
 * [Backbone.js on
   Rails](https://workshops.thoughtbot.com/backbone-js-on-rails), thoughtbot
 * [Recipes with Backbone](http://recipeswithbackbone.com/), Nick Gauthier,
