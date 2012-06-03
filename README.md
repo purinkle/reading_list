@@ -18,6 +18,7 @@ Hunt
 * [CoffeeScript: Accelerated JavaScript
 Development](http://www.amazon.co.uk/dp/1934356786), Trevor Burnham
 * [Addison-Wesley Professional Ruby Series](http://www.informit.com/imprint/series_detail.aspx?ser=2124042)
+* [All O'Reilly Books](http://shop.oreilly.com/category/browse-subjects/programming/ruby.do?sortby=publicationDate&page=all)
 * [Backbone.js on
   Rails](https://workshops.thoughtbot.com/backbone-js-on-rails), thoughtbot
 * [Recipes with Backbone](http://recipeswithbackbone.com/), Nick Gauthier,
