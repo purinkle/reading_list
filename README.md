@@ -37,3 +37,7 @@ Development](http://www.amazon.co.uk/dp/1934356786), Trevor Burnham
 * [Peepcode](http://peepcode.com/)
 * [Treehouse](http://teamtreehouse.com/)
 * [Destroy All Software](https://www.destroyallsoftware.com/screencasts/)
+
+## Websites
+* [Rails Best Practices](http://rails-bestpractices.com/)
+* [Rails Guides](http://guides.rubyonrails.org/)
